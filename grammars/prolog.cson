@@ -4,6 +4,7 @@
   'plg'
   'prolog'
   'pdb'
+  'pro'
 ]
 'name': 'Prolog'
 'patterns': [
